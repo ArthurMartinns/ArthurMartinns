@@ -1,8 +1,6 @@
 Olá, Eu sou Arthur Martins
 
- Atualmente busco uma Oportunidade de Estágio
-
- Estudando JavaScript
+ Estudante de Programação
 
  Contato: arthurmartiinscontato@gmail.com
  <div style="display: inline_block"><br>
