@@ -1,5 +1,4 @@
-Olá, Eu sou Arthur Martins - dev Front - end
- Contato: arthurmartiinscontato@gmail.com
+Olá, Eu sou Arthur Martins - Dev Front - end
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
