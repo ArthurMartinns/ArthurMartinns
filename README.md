@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Engenheiro de software em formação.<br>💼 Estagiando como desenvolvedor front - end.<br>📚 Sempre aprendendo algo novo no mundo da programação.<br>🌱 Explorando áreas de Desenvolvimento Web e API's.<br>
+🎓 Engenheiro de software em formação.<br>💼 Trabalhando como desenvolvedor front - end.<br>📚 Sempre aprendendo algo novo no mundo da programação.<br>🌱 Explorando áreas de Desenvolvimento Web e API's.<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 <span style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMartinns&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="190"/>
 </span>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
