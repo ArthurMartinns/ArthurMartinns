@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Meu nome é Arthur, sou um desenvolvedor front-end apaixonado por tecnologia e inovação. Atualmente, estou cursando Engenharia de Software na PUC Minas, onde aprofundo meus conhecimentos em arquitetura de sistemas, desenvolvimento de software e boas práticas da engenharia. Antes disso, concluí um curso técnico integrado em Tecnologia no Colégio Cotemig, onde desenvolvi uma base sólida em programação. Estou sempre atento às novas tendências do mercado e procuro evoluir constantemente minhas habilidades para entregar produtos de alta qualidade.
+Meu nome é Arthur, sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou cursando Engenharia de Software na PUC Minas, onde aprofundo meus conhecimentos em arquitetura de sistemas, desenvolvimento de software e boas práticas da engenharia. Antes disso, concluí um curso técnico integrado em Tecnologia no Colégio Cotemig, onde desenvolvi uma base sólida em programação. Estou sempre atento às novas tendências do mercado e procuro evoluir constantemente minhas habilidades para entregar produtos de alta qualidade.
 
 
 ---
